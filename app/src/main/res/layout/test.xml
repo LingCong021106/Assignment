@@ -9,22 +9,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Joyce"
-        tools:layout_editor_absoluteX="78dp"
-        tools:layout_editor_absoluteY="148dp" />
-
-    <TextView
-        android:id="@+id/textView3"
-        android:layout_width="113dp"
-        android:layout_height="257dp"
-        android:text="Joyyyyy"
-        tools:layout_editor_absoluteX="180dp"
-        tools:layout_editor_absoluteY="370dp" />
-
-    <TextView
-        android:id="@+id/textView4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="TextView"
-        tools:layout_editor_absoluteX="117dp"
-        tools:layout_editor_absoluteY="583dp" />
+        tools:layout_editor_absoluteX="51dp"
+        tools:layout_editor_absoluteY="43dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
