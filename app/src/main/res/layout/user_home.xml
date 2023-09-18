@@ -15,7 +15,7 @@
         android:layout_height="?attr/actionBarSize"
         android:background="?attr/colorPrimary"
         app:menu="@menu/top_nav_menu"
-        app:navigationIcon="@drawable/baseline_home_24"
+        app:navigationIcon="@drawable/baseline_azurefuture_24x21"
         app:title="Azure Future" />
 
     <!-- Include a Fragment (replace with your actual fragment) -->
